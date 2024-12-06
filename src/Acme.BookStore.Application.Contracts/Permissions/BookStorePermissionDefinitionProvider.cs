@@ -4,7 +4,7 @@ using Volo.Abp.Localization;
 
 namespace Acme.BookStore.Permissions;
 
-public class BookStorePermissionDefinitionProvider : PermissionDefinitionProvider
+public class BookStorePermissionDefinitionProvider : PermissionDefinitionProvider 
 {
     public override void Define(IPermissionDefinitionContext context)
     {

@@ -5,7 +5,13 @@
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
-    <RootNamespace>Acme.BookStore</RootNamespace>
+    <RootNamespace>Acme.
+	
+
+
+
+
+	</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
